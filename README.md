@@ -1,1 +1,1 @@
-This is a REAMDE
+This is a README
